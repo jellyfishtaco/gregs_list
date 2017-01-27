@@ -1,0 +1,87 @@
+
+body {
+
+	margin-top: 
+}
+
+nav {
+
+	height: 40px;
+	background-color: lightgrey;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+
+
+	
+}
+
+
+nav li {
+
+	display: inline;
+
+
+
+}
+
+nav ul {
+
+	
+	float: right;
+	margin-right: 20px;
+	font-size: 20px;
+	margin: 5px 0;
+	padding-right: 20px;
+}
+
+
+nav p {
+
+	font-size: 22px;
+	display: inline-block;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	margin: 5px 0px;
+
+}
+
+h1 {
+
+	font-size: 25px;
+}
+
+input {
+
+ 	width: 400px;
+ 	height: 30px;
+ 	border: 2px solid black;
+ 	display: inline-block;
+}
+
+img {
+
+	height: 40px;
+}
+
+.serps {
+
+	margin-left: 50px;
+
+
+}
+
+.posted, .location, .position {
+
+	font-size: 20px;
+
+}
+
+  .rpp, .prev, .next {
+
+ 	display: inline-block;
+ 	border: 2px solid black;
+
+}
+
